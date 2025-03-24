@@ -1,0 +1,36 @@
+{
+  "name": "PUPS #2507",
+  "description": "This is a collection of cool spirited dawgs",
+  "image": "ipfs://NewUriToReplace/2507.png",
+  "dna": "6530ee204a1f39acd3a9633be13458ab5d8f078f",
+  "edition": 2507,
+  "date": 1742444485165,
+  "creator": "nerdynedo/alcatraz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bg3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink body"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teeth wide"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eye patch"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Red cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

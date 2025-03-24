@@ -1,0 +1,36 @@
+{
+  "name": "PUPS #720",
+  "description": "This is a collection of cool spirited dawgs",
+  "image": "ipfs://NewUriToReplace/720.png",
+  "dna": "ecd8cbd6941fa6419af03d7460840c8daafe69c7",
+  "edition": 720,
+  "date": 1742444125680,
+  "creator": "nerdynedo/alcatraz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bg14"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Teal body"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tshirt2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lips out"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Googles 2"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Red cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "PUPS #417",
+  "description": "This is a collection of cool spirited dawgs",
+  "image": "ipfs://NewUriToReplace/417.png",
+  "dna": "08083dd3b4e4d4076383a5a178ded6fb25dab3d3",
+  "edition": 417,
+  "date": 1742444067408,
+  "creator": "nerdynedo/alcatraz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bg9"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown body "
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tshirt1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue out"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Love glasses "
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "turban"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

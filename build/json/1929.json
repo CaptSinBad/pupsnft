@@ -1,0 +1,36 @@
+{
+  "name": "PUPS #1929",
+  "description": "This is a collection of cool spirited dawgs",
+  "image": "ipfs://NewUriToReplace/1929.png",
+  "dna": "ef28f35261ff9fcc8058563be43d26fa9b2aa1cc",
+  "edition": 1929,
+  "date": 1742444364610,
+  "creator": "nerdynedo/alcatraz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bg7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Teal body"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Tank top"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tobacco mouth "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes bored "
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Red cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

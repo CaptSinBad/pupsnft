@@ -1,0 +1,36 @@
+{
+  "name": "PUPS #1619",
+  "description": "This is a collection of cool spirited dawgs",
+  "image": "ipfs://NewUriToReplace/1619.png",
+  "dna": "41de78c9f80c346cd6b853f236d641f9d055c486",
+  "edition": 1619,
+  "date": 1742444302241,
+  "creator": "nerdynedo/alcatraz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bg6"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown body "
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Red hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pink mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Googles 1"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Pink cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
